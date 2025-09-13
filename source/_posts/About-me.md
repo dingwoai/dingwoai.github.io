@@ -8,7 +8,7 @@ academia: true
 I work currently as the Lead of AD Model (Autonomous Driving Model) Team in SAIC AI Lab (working jointly with IMMotors' AD Center). Our works mainly focus on:
 - building and deploying a robust perception system;
 - developing End-to-End driving model;
-- researching on Vision-Language-Action mdoel;
+- researching on Vision-Language-Action model;
 
 for autonomous driving ranging from level 2 to level 4.
 
