@@ -5,13 +5,21 @@ tags:
 academia: true
 ---
 ## Wenbo Ding
-I work currently as the Lead of Computer Vision Algorithm Team in SAIC AI Lab. Our works mainly focus on building a robust perception system for autonomous driving (AD).
+I work currently as the Lead of AD Model (Autonomous Driving Model) Team in SAIC AI Lab (working jointly with IMMotors' AD Center). Our works mainly focus on:
+- building and deploying a robust perception system;
+- developing End-to-End driving model;
+- researching on Vision-Language-Action mdoel;
+
+for autonomous driving ranging from level 2 to level 4.
 
 ### Education
-I am studying at Fudan University, China as a PhD Student.
+I hold a Dr. Eng. degree of Fudan University, China.
 - I got my Master degree at TU Darmstadt in Germany and Bachelor degree in Zhejiang University, China.
 
 ### News
+- 2025, we improved End-to-End driving model with scaling law and reinforcement learning.
+- 2024, we deployed End-to-End driving model based on imitation learning.
+- 2024/06, **3rd place** of CVPR2024 Occupancy Challenge.
 - 2023/08, we release Vision-based City NOA in Shanghai. Hightlights: BEV, no HD Map, Occupancy.  [Demo](https://mp.weixin.qq.com/s/YeX2U6yX__q3i5qHivZk4A)
 - 2023, **BEVFusion4D: Learning LiDAR-Camera Fusion Under Bird's-Eye-View via Cross-Modality Guidance and Temporal Aggregation**. [preprint](https://arxiv.org/abs/2303.17099)
 - 2023/03/25, our BEVFusion4D method reached **1st place** on both mAP and NDS in nuScenes detection task. 
